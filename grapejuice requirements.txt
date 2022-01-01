@@ -1,0 +1,2 @@
+sudo xbps-install -S void-repo-multilib python3 python3-pip
+sudo xbps-install -S wget p7zip gnutls gnutls-32bit git gobject-introspection xdg-utils xdg-user-dirs glu python3-psutil python3-gobject python3-packaging python3-wheel python3-setuptools python3-requests python3-Unidecode
